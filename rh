@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+# 在项目根目录运行 `./rh <args>`（bash / git-bash / macOS / Linux）
+set -e
+ROOT="$(cd "$(dirname "$0")" && pwd)"
+if [ -x "$ROOT/.venv/Scripts/python.exe" ]; then
+  PY="$ROOT/.venv/Scripts/python.exe"   # Windows (git-bash)
+elif [ -x "$ROOT/.venv/bin/python" ]; then
+  PY="$ROOT/.venv/bin/python"           # macOS / Linux
+else
+  echo "未找到 .venv。请先 uv venv --python 3.11 && uv sync" >&2
+  exit 1
+fi
+cd "$ROOT"
+exec "$PY" -m jingshan.cli "$@"
