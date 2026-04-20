@@ -26,3 +26,4 @@ runs.db-shm
 Thumbs.db
 .history/
 .claude/
+.archrived
