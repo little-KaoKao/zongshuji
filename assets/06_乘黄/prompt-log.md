@@ -30,3 +30,23 @@
   - https://rh-images-1252422369.cos.ap-beijing.myqcloud.com/8185558a04bcef7106ea5517ebc83fb4/output/631484a2-dfd8-4045-aa80-49ffe9e517a3.png
   - https://rh-images-1252422369.cos.ap-beijing.myqcloud.com/8185558a04bcef7106ea5517ebc83fb4/output/95e05ced-fd60-4a77-8bb2-0d99e52b8ac8.png
   - https://rh-images-1252422369.cos.ap-beijing.myqcloud.com/8185558a04bcef7106ea5517ebc83fb4/output/43a2c0fd-46e2-4155-bb7f-a0ffa189d6df.png
+
+### Run #46 · 2026-04-21 16:15
+- **模型**: `youchuan-v7`
+- **taskId**: `2046502416211652610`
+- **基于**: Run #34
+- **Prompt**:
+
+```
+A mythical fox-shaped divine beast Chenghuang (乘黄) from the Classic of Mountains and Seas, its body shaped exactly like a fox — slender limbs, pointed ears, bushy tail, narrow snout — but with a single elegant curved antler-like horn rising from the center of its back between the shoulder blades, the fox body covered in pale golden-cream fur with subtle swirling auspicious cloud patterns rendered in thin gold-line filigree, a faint warm luminous aura of longevity energy surrounding the creature, the beast stands poised on a rocky mountain ledge in the mid-foreground gazing outward with calm intelligent eyes, panoramic Chinese blue-green landscape painting, Song dynasty court style, tall layered mountains rendered with mineral azurite blue (shiqing) and malachite green (shilü) pigments, mountain ridges and cliffs subtly composed of flowing luminous data particles and delicate circuit-board filigree woven into the rocks representing biomedical science and longevity research, drifting mist carrying faint glowing DNA helix patterns and medicinal herb silhouettes, the creature depicted in meticulous gongbi painting style with crisp ink outlines and layered mineral pigment washes, small vermilion cinnabar square seal stamp in the lower right corner only, textured aged silk scroll paper with faint crackle, ethereal golden-hour light, strict limited palette dominated by stone green and stone blue with warm ochre and minimal vermilion accents, highly detailed masterwork. IMPORTANT: no calligraphy, no Chinese characters, no inscription, no signature, no title, no poem, no text of any kind, only one small red seal at bottom right, otherwise pure painting.
+```
+- **本地文件**:
+  - `outputs/06_乘黄/run0046/result_59.png`
+  - `outputs/06_乘黄/run0046/result_60.png`
+  - `outputs/06_乘黄/run0046/result_61.png`
+  - `outputs/06_乘黄/run0046/result_62.png`
+- **结果 URL（24h 过期）**:
+  - https://rh-images-1252422369.cos.ap-beijing.myqcloud.com/8185558a04bcef7106ea5517ebc83fb4/output/58cbab2b-e01a-47ec-94c9-5acfde3d10a8.png
+  - https://rh-images-1252422369.cos.ap-beijing.myqcloud.com/8185558a04bcef7106ea5517ebc83fb4/output/63274925-9b10-40b1-b6ea-d7f4e5f8b43c.png
+  - https://rh-images-1252422369.cos.ap-beijing.myqcloud.com/8185558a04bcef7106ea5517ebc83fb4/output/86343f46-ab0a-408c-aa5e-a28078cb3d73.png
+  - https://rh-images-1252422369.cos.ap-beijing.myqcloud.com/8185558a04bcef7106ea5517ebc83fb4/output/dfa7f545-a2f3-48a2-8925-2ac8ecb1399f.png
