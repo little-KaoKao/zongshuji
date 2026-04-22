@@ -12,7 +12,7 @@ __pycache__/
 .pytest_cache/
 
 # Generated artifacts (大文件，不入库；可通过 `rh download` 从 RunningHub 拉回)
-outputs/
+# outputs/
 
 # 本地数据库 WAL/SHM 副本（主 db 入库）
 runs.db-journal
